@@ -26,7 +26,7 @@ On this GitHub profile, I will upload my analyst-related projects including dash
 
 | Project | Tool | Link |
 |---|---|---|
-| Historical Weather Analytics Dashboard | Power BI + SQLite | [View Project](PASTE_WEATHER_PROJECT_LINK_HERE) |
+| THE CAPSTONE | Power BI + SQLite | [View Project](PASTE_WEATHER_PROJECT_LINK_HERE) |
 | Hacker News SQL Analysis | SQL + BigQuery | [View Project](PASTE_LINK_HERE) |
 | Global Sales Dashboard | Excel | [View Project](PASTE_LINK_HERE) |
 | Movies Dashboard | Excel | [View Project](PASTE_LINK_HERE) |
